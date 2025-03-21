@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|c:\\users\\bryan\\desktop\\proyectos\\c#\\gcd\\clinica archivos\\nueva carpeta\\app\\gestorclinica\\gestorclinica\\models\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|solutionrelative:gestorclinica\\models\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|c:\\users\\bryan\\desktop\\proyectos\\c#\\gcd\\clinica archivos\\nueva carpeta\\app\\gestorclinica\\gestorclinica\\cobro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|solutionrelative:gestorclinica\\cobro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|c:\\users\\bryan\\desktop\\proyectos\\c#\\gcd\\clinica archivos\\nueva carpeta\\app\\gestorclinica\\gestorclinica\\cobro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|solutionrelative:gestorclinica\\cobro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|c:\\users\\bryan\\desktop\\proyectos\\c#\\gcd\\clinica archivos\\nueva carpeta\\app\\gestorclinica\\gestorclinica\\infocita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|solutionrelative:gestorclinica\\infocita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|c:\\users\\bryan\\desktop\\proyectos\\c#\\gcd\\clinica archivos\\nueva carpeta\\app\\gestorclinica\\gestorclinica\\infocita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF6B6CF7-D491-49CF-954E-15713D421AD1}|GestorClinica\\GestorClinica.csproj|solutionrelative:gestorclinica\\infocita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consultas.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\models\\Consultas.cs",
+              "RelativeDocumentMoniker": "GestorClinica\\models\\Consultas.cs",
+              "ToolTip": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\models\\Consultas.cs",
+              "RelativeToolTip": "GestorClinica\\models\\Consultas.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:18:24.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cobro.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\Cobro.cs",
+              "RelativeDocumentMoniker": "GestorClinica\\Cobro.cs",
+              "ToolTip": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\Cobro.cs",
+              "RelativeToolTip": "GestorClinica\\Cobro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:17:59.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cobro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\Cobro.cs",
+              "RelativeDocumentMoniker": "GestorClinica\\Cobro.cs",
+              "ToolTip": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\Cobro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestorClinica\\Cobro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:17:54.98Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoCita.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\InfoCita.cs",
+              "RelativeDocumentMoniker": "GestorClinica\\InfoCita.cs",
+              "ToolTip": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\InfoCita.cs*",
+              "RelativeToolTip": "GestorClinica\\InfoCita.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:16:16.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfoCita.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\InfoCita.cs",
+              "RelativeDocumentMoniker": "GestorClinica\\InfoCita.cs",
+              "ToolTip": "C:\\Users\\bryan\\Desktop\\Proyectos\\c#\\GCD\\Clinica Archivos\\Nueva carpeta\\app\\GestorClinica\\GestorClinica\\InfoCita.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "GestorClinica\\InfoCita.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:16:11.284Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
